@@ -42,11 +42,11 @@ global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh
 global.wm = process.env.GL_WM || "©᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT"
 
 //=================================================//
-global.packname = process.env.STICKER_PACK_NAME || "᙭ᑭᒪOᗩᗪᗴᖇ" 
+global.packname = process.env.STICKER_PACK_NAME || "WHY" 
 //The sticker pack name
 
 //=================================================//
-global.author = process.env.STICKER_AUTHOR_NAME || "ᗷOT" 
+global.author = process.env.STICKER_AUTHOR_NAME || "AFTAB" 
 //The sticker author name
 
 //=================================================//
@@ -107,7 +107,7 @@ global.menustyle = process.env.MENU_STYLE || '2'
 //Replies
 global.mess = { 
   done: '*Done*', 
-  success: '©᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT', 
+  success: '`WHYAFTAB`', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
