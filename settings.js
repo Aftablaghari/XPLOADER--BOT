@@ -15,11 +15,11 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~K7ZSAT7L#X-oAGibZpBp7xNeZchD4wYf644BEQEsvDS-g6mPyjJc' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~rn4CHAAQ#JEJ_yz6DD-GP0eGbCq6XndaLPfQKt-QwVst2r_O9Yfs' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
-global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT' 
+global.botname = process.env.BOT_NAME || 'why' 
 //Your desired bot name
 
 //=================================================//
@@ -36,7 +36,7 @@ global.ownername = process.env.OWNER_NAME || 'WHYAFTAB'
 //Type your name here
 
 //=================================================//
-global.plink = process.env.PLINK || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
+global.plink = process.env.PLINK || ""
 
 //=================================================//
 global.wm = process.env.GL_WM || "©᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT"
