@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~rn4CHAAQ#JEJ_yz6DD-GP0eGbCq6XndaLPfQKt-QwVst2r_O9Yfs' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~zjBVkZDL#3eJUs2xlcMWliOeFDjEAn09j6lhijO_JlcilS7xyL5s' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
@@ -50,7 +50,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "AFTAB"
 //The sticker author name
 
 //=================================================//
-global.prefixz = process.env.PREFIX || '' 
+global.prefixz = process.env.PREFIX || '.' 
 //Set your desired prefix
 
 //=================================================//
